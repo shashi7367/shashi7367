@@ -2,7 +2,7 @@
      PREMIUM GITHUB PROFILE README — SUMIT RAJ
 ====================================================== -->
 
-<h1 align="center">Hi, I'm Sumit Raj 👋</h1>
+<h1 align="center">Hi, I'm Shashi Ranjan 👋</h1>
 
 <p align="center">
   <b>Software Engineer in the Making • Cloud & Python Enthusiast • UI-Focused Developer</b>
