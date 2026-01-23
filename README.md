@@ -16,9 +16,6 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/shashi7367">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
   <a href="https://www.linkedin.com/in/shashiranjankumar8/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -32,7 +29,7 @@
 - 🎯 Aspiring **Data Science Engineer**  
 - 💻 Skilled in **C++, Python & Data Structures**  
 - 🧠 Passionate about **problem solving & logic building**  
-- 📊 Interested in **AI, ML & Data Science**  
+- 📊 Interested in **AI, ML, Data Science & Analytics**  
 - 🚀 Learning by building real-world projects  
 
 ---
@@ -49,9 +46,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+### 📊 Data & Analytics Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi" />
+</p>
+
 ### 🗄️ Tools & DB
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,vscode" />
 </p>
 
 ### ☁️ Cloud
@@ -66,6 +68,7 @@
 - Strong problem-solving skills  
 - Clean and structured coding  
 - Good grasp of DSA  
+- Analytical thinking  
 - Quick learner & adaptive  
 - Team player  
 
@@ -75,6 +78,7 @@
 
 🔹 **C++ Projects** — Stack, Queue, Linked List, Matrix Simulation  
 🔹 **Python Projects** — Automation, File Handling, Logic Programs  
+🔹 **Data Analytics Projects** — Excel Dashboards, Power BI Reports  
 🔹 **DSA Practice** — Sorting, Searching, Trees, Graphs  
 🔹 **AI Project** — AI-based Personalized Nutrition Generator  
 
@@ -83,7 +87,8 @@
 ## 📚 Currently Learning
 
 - Advanced Python  
-- Data Science & ML  
+- Data Science & Machine Learning  
+- Power BI Advanced Dashboards  
 - Cloud Computing  
 - Competitive Programming  
 
@@ -109,7 +114,7 @@
 ## 📬 Contact Me
 
 📧 **Email:** your_email@gmail.com  
-💼 **Open to:** Internships & Learning Opportunities  
+💼 **Open to:** Internships • Data Analyst • Software Intern  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashi7367&style=flat-square&color=000000" />
