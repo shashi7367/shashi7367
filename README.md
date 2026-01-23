@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/shashi7367">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shashiranjankumar8/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -92,8 +92,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi7367&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi7367&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -108,11 +108,11 @@
 
 ## 📬 Contact Me
 
-📧 **Email:** kumarshashiranjan255@gmail.com  
+📧 **Email:** your_email@gmail.com  
 💼 **Open to:** Internships & Learning Opportunities  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=shashi7367&style=flat-square&color=000000" />
 </p>
 
 <!-- ============================ END ============================ -->
