@@ -13,11 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:kumarshashiranjan255@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shashiranjankumar8/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/Shashi_1938/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
@@ -114,7 +117,7 @@
 
 ## 📬 Contact Me
 
-📧 **Email:** your_email@gmail.com  
+📧 **Email:** kumarshashiranjan255@gmail.com 
 💼 **Open to:** Internships • Data Analyst • Software Intern  
 
 <p align="center">
