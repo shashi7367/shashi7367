@@ -1,5 +1,5 @@
 <!-- ======================================================
-     PREMIUM GITHUB PROFILE README — SUMIT RAJ
+     PREMIUM GITHUB PROFILE README — SHASHI RANJAN
 ====================================================== -->
 
 <h1 align="center">Hi, I'm Shashi Ranjan 👋</h1>
