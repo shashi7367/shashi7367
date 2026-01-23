@@ -5,22 +5,22 @@
 <h1 align="center">Hi, I'm Shashi Ranjan 👋</h1>
 
 <p align="center">
-  <b>Software Engineer in the Making • Cloud & Python Enthusiast • UI-Focused Developer</b>
+  <b>B.Tech CSE Student • Aspiring Data Science Engineer • C++ & Python Enthusiast • Tech Learner</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+and+scalable+solutions;Python+%7C+Cloud+%7C+UI+Focused+Development;Learning+Today%2C+Leading+Tomorrow&font=Fira%20Code&center=true&width=780&height=45&color=000000&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Today%2C+Building+Tomorrow;C%2B%2B+%7C+Python+%7C+Data+Science+%7C+Cloud;Code.+Create.+Innovate.&font=Fira%20Code&center=true&width=780&height=45&color=000000&vCenter=true&pause=1000" />
 </p>
 
 <p align="center">
-  <a href="mailto:rajsumit1228@gmail.com">
+  <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sumitraj28">
+  <a href="https://github.com/your_github_username">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://leetcode.com/u/sumit_raj12/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -28,19 +28,30 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE (3rd Year)** — Lovely Professional University  
-- 🧠 Strong fundamentals in **Python, Web Development & Cloud**
-- ☁️ Hands-on with **AWS & Google Cloud**
-- 🎨 UI-aware developer focused on **clarity, structure & usability**
-- 🚀 Growth-driven learner building real-world skills
+- 🎓 **B.Tech CSE Student** — Lovely Professional University (LPU)  
+- 🎯 Aspiring **Data Science Engineer**  
+- 💻 Strong in **C++, Python & Data Structures**  
+- 🧠 Passionate about **problem solving & logic building**  
+- 📊 Interested in **Data Science, AI & Machine Learning**  
+- 🚀 Learning by building real-world projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Core Engineering
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ### ☁️ Cloud & Platforms
@@ -48,93 +59,82 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
 
-### 🎨 UI / UX & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
-</p>
+---
 
-### 🗄️ Databases & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes" />
-</p>
+## 🧠 Core Strengths
 
-
-### 🧰 Tools & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+- Strong **logic & problem-solving ability**  
+- Clean and structured coding style  
+- Good understanding of **DSA concepts**  
+- Quick learner & tech explorer  
+- Passion for **continuous improvement**  
 
 ---
 
-## 🧠 Engineering Strengths
+## 📌 Featured Work & Projects
 
-- Clean, readable, and maintainable code  
-- Strong problem-solving fundamentals  
-- UI-conscious development mindset  
-- Cloud-first approach to modern applications  
-- Continuous improvement & self-learning
+🔹 **C++ Programming Projects**  
+- Stack, Queue, Linked List  
+- Matrix & simulation problems  
+- Complex logic-based programs  
 
----
+🔹 **Python Projects**  
+- Core Python programs  
+- File handling & automation  
+- Algorithm-based problem solving  
 
-## 📌 Featured Projects
+🔹 **Data Structures & Algorithms**  
+- Arrays, Sorting, Searching  
+- Stack, Queue, Trees, Graphs  
+- Competitive programming problems  
 
-> Practical implementations focused on learning, usability, and scalability.
-
-🔹 **Web Development Projects**  
-- HTML • CSS • JavaScript  
-- Clean UI & structured logic  
-
-🔹 **Backend Projects**  
-- Python • Django  
-- Core backend concepts & workflows  
-
-🔹 **Cloud & Learning Projects**  
-- AWS / Google Cloud  
-- Deployment & experimentation  
+🔹 **AI & Data Science Project**  
+- AI-powered Personalized Nutrition Generator  
+- Technical documentation & concept design  
 
 ---
 
-## 📚 What I’m Currently Learning
+## 📚 Currently Learning
 
-- Advanced **Python**
-- Backend development best practices
-- Cloud deployment workflows
-- Data structures & problem solving
+- Advanced **Python Programming**  
+- **Data Science & Machine Learning**  
+- Cloud tools (AWS & GCP)  
+- Competitive Programming  
+- Real-world problem solving  
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Activities
 
-- 🎖️ **Google Cloud Certified**
-- 🥇 **Oracle Certified**
-- 📜 **NPTEL Certified**
-- 🧠 **University Hackathon Participant**
-  - Qualified up to **3rd Round**
+- 🧠 Strong academic performer  
+- 📜 IT Support Professional Certificate  
+- 💻 Regular coding practice & project building  
+- 🤝 Active learner & tech enthusiast  
 
 ---
 
 ## 🚧 Current Status
 
 - 👨‍🎓 B.Tech CSE student at LPU  
-- 📖 Actively strengthening backend & cloud skills  
-- 🔍 Open to learning-focused opportunities  
+- 🎯 Preparing for **Data Science & Software roles**  
+- 📖 Strengthening **DSA, Python & ML skills**  
 
 ---
 
 ## 🤝 Open For
 
 - Internships  
-- Entry-level software roles  
-- Collaborative learning projects  
-- Tech-driven teams & mentorship  
+- Tech learning projects  
+- Open-source collaboration  
+- Mentorship & teamwork  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitraj28&show_icons=true&hide_border=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitraj28&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&hide_border=true&theme=default" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -147,13 +147,13 @@
 
 ---
 
-## 📬 Let’s Build Something Meaningful
+## 📬 Let’s Connect & Build
 
-📧 **Email:** rajsumit1228@gmail.com  
-💼 **Status:** Open to internships & growth opportunities  
+📧 **Email:** your_email@gmail.com  
+💼 **Status:** Open to internships & learning opportunities  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumitraj28&style=flat-square&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=your_github_username&style=flat-square&color=000000" />
 </p>
 
 <!-- ============================ END ============================ -->
